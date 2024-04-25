@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Clash+Grotesk:wght@300;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Clash+Grotesk+Variable:wght@500;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-bai-jamjuree: "Bai Jamjuree";
+  --font-clash-grotesk-variable: "Clash Grotesk Variable";
+  --font-clash-grotesk: "Clash Grotesk";
+
+  /* font sizes */
+  --font-size-9xl: 28px;
+  --font-size-61xl: 80px;
+  --font-size-281xl: 300px;
+  --font-size-21xl: 40px;
+  --font-size-5xl: 24px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+  --font-size-3xl: 22px;
+  --font-size-5xs: 8px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-whitesmoke-100: #f7f7f7;
+  --color-whitesmoke-200: #f6f6f6;
+  --color-whitesmoke-300: #f5f5f5;
+  --color-whitesmoke-400: #eeeff0;
+  --color-whitesmoke-500: #eeeef0;
+  --white: #fff;
+  --color-gray-100: rgba(255, 255, 255, 0.13);
+  --color-deepskyblue-100: #0ed4ff;
+  --color-silver: #b3b5bc;
+
+  /* Gaps */
+  --gap-13xl: 32px;
+  --gap-63xl: 82px;
+
+  /* Border radiuses */
+  --br-55xl: 74px;
+  --br-5xs: 8px;
+}
